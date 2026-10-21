@@ -1,0 +1,6 @@
+NOTE :
+
+Copy the *MCCI_LoRaWAN_LMIC_ESP32_4.1.1* folder and paste in on Documents\Arduino\libraries folder.
+
+**No need download LMIC Library from Arduino IDE if u paste the above folder**
+ 

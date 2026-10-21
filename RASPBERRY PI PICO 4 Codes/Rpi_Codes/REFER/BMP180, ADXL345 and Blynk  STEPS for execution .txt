@@ -1,0 +1,13 @@
+For ADXL324 :-
+
+        Execute the main_adxl.py code  (Note :-adxl345.py is the library)
+
+
+For BMP180 :-
+
+        Execute the testBmp.py code (Note:-bmpsensor.py is the library)
+
+
+For Blynk:-
+
+      Execute the blynk_led.py code(Note:-BlynkLib.py is the library)

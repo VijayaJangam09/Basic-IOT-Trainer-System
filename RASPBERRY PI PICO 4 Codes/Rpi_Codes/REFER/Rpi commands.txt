@@ -1,0 +1,21 @@
+1) sudo apt-get update
+
+2) sudo apt-get upgrade
+
+
+                       DHT 11
+  
+     1)sudo pip3 install adafruit-circuitpython-dht
+
+     2) pip install Adafruit-DHT / pip install Adafruit_DHT 
+
+     3) pip install adafruit-circuitpython-dht
+
+
+			CAMERA
+
+1)suddo raspi-config
+     Go to interface option and enable the legacy camera.
+     Reboot the Raspberry pi
+
+
